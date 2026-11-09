@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Цвета HUD-виджета -->
+    <color name="hud_text">#FFFFFFFF</color>
+    <color name="hud_text_dim">#B3FFFFFF</color>
+    <color name="hud_divider">#40FFFFFF</color>
+    <color name="hud_background">#99000000</color>
+
+    <!-- Цвета темы приложения -->
+    <color name="primary">#FF1E88E5</color>
+    <color name="primary_dark">#FF1565C0</color>
+    <color name="accent">#FFFF7043</color>
+</resources>
